@@ -72,5 +72,4 @@ def main():
         else:
             print("Invalid choice. Please try again.")
 
-if _name_ == "_main_":
-    main()
+main()
